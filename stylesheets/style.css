@@ -23,3 +23,7 @@
     border-color: lightgreen;
     margin: 5px;
 }
+.heading-font{
+    font-family: Roboto, sans-serif;
+    text-align: center;
+}
